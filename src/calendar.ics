@@ -1,0 +1,3087 @@
+BEGIN:VCALENDAR
+PRODID:-//Simple//Wirtualna Uczelnia//PL
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+TZURL:http://tzurl.org/zoneinfo/Europe/Warsaw
+X-LIC-LOCATION:Europe/Warsaw
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19880327T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19961027T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+0124
+TZOFFSETTO:+0124
+TZNAME:WMT
+DTSTART:18800101T000000
+RDATE:18800101T000000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+0124
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19150805T000000
+RDATE:19150805T000000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19160430T230000
+RDATE:19160430T230000
+RDATE:19170416T020000
+RDATE:19180415T020000
+RDATE:19400623T020000
+RDATE:19430329T020000
+RDATE:19440403T020000
+RDATE:19450429T000000
+RDATE:19460414T000000
+RDATE:19470504T020000
+RDATE:19480418T020000
+RDATE:19490410T020000
+RDATE:19570602T010000
+RDATE:19580330T010000
+RDATE:19590531T010000
+RDATE:19600403T010000
+RDATE:19610528T010000
+RDATE:19620527T010000
+RDATE:19630526T010000
+RDATE:19640531T010000
+RDATE:19770403T010000
+RDATE:19780402T010000
+RDATE:19790401T010000
+RDATE:19800406T010000
+RDATE:19810329T010000
+RDATE:19820328T010000
+RDATE:19830327T010000
+RDATE:19840325T010000
+RDATE:19850331T010000
+RDATE:19860330T010000
+RDATE:19870329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19161001T010000
+RDATE:19161001T010000
+RDATE:19170917T030000
+RDATE:19220601T000000
+RDATE:19421102T030000
+RDATE:19431004T030000
+RDATE:19441004T020000
+RDATE:19451101T000000
+RDATE:19461007T030000
+RDATE:19471005T030000
+RDATE:19481003T030000
+RDATE:19491002T030000
+RDATE:19570929T020000
+RDATE:19580928T020000
+RDATE:19591004T020000
+RDATE:19601002T020000
+RDATE:19611001T020000
+RDATE:19620930T020000
+RDATE:19630929T020000
+RDATE:19640927T020000
+RDATE:19770925T020000
+RDATE:19781001T020000
+RDATE:19790930T020000
+RDATE:19800928T020000
+RDATE:19810927T020000
+RDATE:19820926T020000
+RDATE:19830925T020000
+RDATE:19840930T020000
+RDATE:19850929T020000
+RDATE:19860928T020000
+RDATE:19870927T020000
+RDATE:19880925T030000
+RDATE:19890924T030000
+RDATE:19900930T030000
+RDATE:19910929T030000
+RDATE:19920927T030000
+RDATE:19930926T030000
+RDATE:19940925T030000
+RDATE:19950924T030000
+END:STANDARD
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19180916T020000
+RDATE:19180916T020000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+TZNAME:EEST
+DTSTART:19190415T010000
+RDATE:19190415T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+TZNAME:EET
+DTSTART:19190916T020000
+RDATE:19190916T020000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19441001T000000
+RDATE:19441001T000000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19770101T000000
+RDATE:19770101T000000
+RDATE:19880101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191001T095000
+DTEND:20191001T103500
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:830d6635b62fc71b3c2032721155b28b
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191001T114000
+DTEND:20191001T122500
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:42c90b8e6313255b60d2acb061c50daa
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+ \, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T080000
+DTEND:20191002T084500
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17_z
+ _SI_gc01_DEPR\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc04_PGiAM\,
+  IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:b29c79d73aee70db799d72b6cdee854d
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc
+ 01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_
+ 17_z_SI_gc01_DEPR\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc04_PGi
+ AM\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T114000
+DTEND:20191002T122500
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:a0ddf1e862e4a5a788f39fae1ac1c50e
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T123500
+DTEND:20191002T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_
+ K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:1696d1d71bc14dd40b26a18b2773778d
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T133000
+DTEND:20191002T141500
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_
+ z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:fc4ce719c9bf3fc57c62642f6ec08e31
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce
+ _17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T142500
+DTEND:20191002T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_
+ gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-c
+ e_17_z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, DKS_K-ce_17_z_SI_gc0
+ 2_NMKE\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:6142478bb5de9535e28ea31e54c23116
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z
+ _SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I
+ _K-ce_17_z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, DKS_K-ce_17_z_SI
+ _gc02_NMKE\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T152000
+DTEND:20191002T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I_K-c
+ e_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_
+ IW\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:9f02ca9ec884d05f450aeed11c5d6882
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c03_IW\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T152000
+DTEND:20191002T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filipczyk
+   I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:03d196f47188969ba6af19b3be469c98
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filip
+ czyk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T152000
+DTEND:20191002T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Białas
+   I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_S
+ I_gc02_IW
+TZID:Europe/Warsaw
+UID:fd14a4f33f6c63f643be2bc1f3e3626f
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Bi
+ ałas  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17
+ _z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191002T152000
+DTEND:20191002T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Łagodz
+ iński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:4138a7eade3da5c22d77588f2decbf91
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Ła
+ godziński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-
+ ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191003T080000
+DTEND:20191003T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-c
+ e_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:d54fa4f0f8546661e240a34066928072
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I
+ _K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191004T085500
+DTEND:20191004T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:bde53fdee471cd7171dcfbb7e25878cf
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191004T104500
+DTEND:20191004T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+ \, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:bfee64c5397c08cd2b35c0724e1a3914
+LOCATION:A 333
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191004T114000
+DTEND:20191004T122500
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:e1c192667ffc8bde8a70fcce4315eed0
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191004T152000
+DTEND:20191004T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probierz 
+  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW
+TZID:Europe/Warsaw
+UID:3a74faa3b500a074130503192cd1ffaf
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probi
+ erz  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T080000
+DTEND:20191007T084500
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1745d32201b6e0c446529445794bbf25
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T095000
+DTEND:20191007T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc0
+ 1_AD\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:7c80a6020e36fd6162402588365e740c
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI
+ _gc01_AD\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-
+ ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T114000
+DTEND:20191007T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:f87afbab6f59d93a3efd1cd7d5059904
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T133000
+DTEND:20191007T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:00890d05e035fca7bd711ae9056d659e
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T152000
+DTEND:20191007T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołtysik 
+  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_
+ gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:45dd9df5b70ec0c1fe89b9248168c8dc
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołty
+ sik  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z
+ _SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T152000
+DTEND:20191007T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzelecki 
+  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW\, IE_K-ce_17_z_SI_gc01_AD
+TZID:Europe/Warsaw
+UID:ed3e18b67f0e304cf93cad11ff4a51e1
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzele
+ cki  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T152000
+DTEND:20191007T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Filipczy
+ k  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_S
+ I_gc03_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:fe11db6a95d2a8f84ca638b4b312394f
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Fili
+ pczyk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T152000
+DTEND:20191007T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonka  I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:e67c1def08ce65498f77b2c000a1914a
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonk
+ a  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191007T152000
+DTEND:20191007T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  I_K-
+ ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_
+ PGiAM
+TZID:Europe/Warsaw
+UID:7a2e6d121b4f3700a0430d5bdff65626
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  
+ I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_g
+ c02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T095000
+DTEND:20191009T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:7974cdf693d9e0ace57582567dfa5802
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T114000
+DTEND:20191009T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, I_
+ K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:881754853c504b185c35e3a6a9d7bce1
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T133000
+DTEND:20191009T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_
+ gc02_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, I_K-
+ ce_17_z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI_gc0
+ 1_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:ffee5f0c1e1e2fdc7e899d7b8d5c96cd
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z
+ _SI_gc02_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, 
+ I_K-ce_17_z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI
+ _gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T152000
+DTEND:20191009T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  IE_K-
+ ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc03_IW
+ \, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:e0f396172ba89a844925baf556482c34
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I
+ E_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc0
+ 3_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T152000
+DTEND:20191009T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filipczyk
+   I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:880d4c3174e54359e82fd7eb15317ec3
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filip
+ czyk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T152000
+DTEND:20191009T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Białas
+   I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_S
+ I_gc02_IW
+TZID:Europe/Warsaw
+UID:63ba34a7f968a950471fb1f5c648b5aa
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Bi
+ ałas  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17
+ _z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191009T152000
+DTEND:20191009T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Łagodz
+ iński  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z
+ _SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:9ba2f0cf74ea435c580ae9246e967d2d
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Ła
+ godziński  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_
+ 17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191010T080000
+DTEND:20191010T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-c
+ e_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:446bbcc34485d69455f11b6f7dc0adc5
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I
+ _K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191011T095000
+DTEND:20191011T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:fd526b607d341b44fe6d55ca7a48fff6
+LOCATION:A 333
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_P
+ GiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191014T080000
+DTEND:20191014T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:65f21db763cab1c4e2720aede4485f6f
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191014T095000
+DTEND:20191014T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_
+ z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:9b0af9bfe5c2908e540b50bcfe56a14c
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_
+ gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce
+ _17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191014T114000
+DTEND:20191014T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:28ea9c32e2b5cc44ae966f37afd6f9e3
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191014T133000
+DTEND:20191014T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:85083ed9765832810ad578efcbfba698
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191014T152000
+DTEND:20191014T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołtysik 
+  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:3099f20772ac97bbe9d413222e51d623
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołty
+ sik  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191015T095000
+DTEND:20191015T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:2e4ce6a3b364656176dc065ed82c6b5c
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191015T114000
+DTEND:20191015T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:7054d10a68d70ca6cecfce0c551bd175
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191016T080000
+DTEND:20191016T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_gc01
+ _DEPR\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_
+ z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:7b44410cadf78bbca5c6158300f9f81a
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_
+ gc01_DEPR\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce
+ _17_z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc04_P
+ GiAM\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191016T095000
+DTEND:20191016T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:768bc8b324d6d144d196763f26eb2764
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191016T114000
+DTEND:20191016T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:7c460dc1a3663a516d0664d038e351a6
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191016T133000
+DTEND:20191016T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_
+ z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:543eefbf0a1aea693cc996c44dfacc18
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce
+ _17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191016T152000
+DTEND:20191016T170000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:4a4e59790fce3ab450581576da1965f5
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191017T080000
+DTEND:20191017T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:6b5837a8a72c8704d683b9ee049c654d
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191018T095000
+DTEND:20191018T103500
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:ee424236e383edaa49a05b9455748714
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_
+ IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191018T114000
+DTEND:20191018T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:0d05a286615664010e0b2f0108729780
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191018T152000
+DTEND:20191018T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probierz 
+  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_g
+ c02_IW
+TZID:Europe/Warsaw
+UID:ad751242033837af6359c9fe39d566c0
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probi
+ erz  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_
+ SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T095000
+DTEND:20191021T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_
+ IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_
+ z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:0b68d2b9aed0daabc73df8c076770bf0
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_g
+ c03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce
+ _17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T114000
+DTEND:20191021T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:4a203d68c35b520e118a7d1ee6717312
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T133000
+DTEND:20191021T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:60d43c3fd1f3849476a2af5e79b59739
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T152000
+DTEND:20191021T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzelecki 
+  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc0
+ 3_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:f6f427c912c09100a33562f412e4b443
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzele
+ cki  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI
+ _gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T152000
+DTEND:20191021T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Filipczy
+ k  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_
+ gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:ee65ec0e8bd9d76b1d41e2b6c9b56405
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Fili
+ pczyk  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z
+ _SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T152000
+DTEND:20191021T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonka  I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:5ff5d2515e730f7bc6368fdee2db0d68
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonk
+ a  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191021T152000
+DTEND:20191021T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  I_K-
+ ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_
+ PGiAM
+TZID:Europe/Warsaw
+UID:4471b5abccc33b7968ac22ea4dd709a1
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  
+ I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_g
+ c03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191023T095000
+DTEND:20191023T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:d09f7f86d3288011f2a2be44fbb794b3
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191023T114000
+DTEND:20191023T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_
+ K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:3ecdac61c474b386651c2f28597e7092
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191023T133000
+DTEND:20191023T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc02_PGiAM\, IE
+ _K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI_gc0
+ 1_AD\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:88b15edd113a46900a35fcf6e082403a
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI
+ _gc01_AD\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191024T080000
+DTEND:20191024T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:62ffb7b7c12199dfde20d492e1d4fc2d
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191025T080000
+DTEND:20191025T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:663127006b2409cf848bf5f944f07e61
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191025T095000
+DTEND:20191025T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+ \, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:e339593d0c548a931569e3265c2f299b
+LOCATION:A 333
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_P
+ GiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191028T080000
+DTEND:20191028T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:fae2df20e021eed42a546c6ff6c8ea4d
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191028T095000
+DTEND:20191028T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04
+ _PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_
+ z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:7ba0eeb4c1cee441003afb8b4e8960c7
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_
+ gc04_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce
+ _17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191028T114000
+DTEND:20191028T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:97bf8a41679efc845f04c24810e9bb6d
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191028T133000
+DTEND:20191028T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1fba4c6f508b4f7b855400e4f960a848
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191029T095000
+DTEND:20191029T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:6286b8bd926e92040cafaa627f6b9888
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191029T114000
+DTEND:20191029T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:66043c30e5f38e795ccbb9ef06c25282
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+ \, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191030T080000
+DTEND:20191030T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_
+ IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_
+ gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, DK
+ S_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:96dab75501c10a2a1cb1a7c729c7fbee
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z
+ _SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\
+ , DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191030T095000
+DTEND:20191030T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:08ed117ff6ab75703daac318f2973b99
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191030T114000
+DTEND:20191030T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-c
+ e_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:19351b88e92657da9a92b4c9e04f34b4
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191030T133000
+DTEND:20191030T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_
+ z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:5f3be25d310154d9b3951b96adb119de
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce
+ _17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191031T080000
+DTEND:20191031T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:8a2ec309fc45a742e3f227cbfbe34ba5
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191104T095000
+DTEND:20191104T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDi
+ HD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:edaffe90a50d37a52bf14195e6ed4fa8
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191104T114000
+DTEND:20191104T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:7d0d1eb796c44ddbf73f75a2c361638f
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191104T133000
+DTEND:20191104T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:ff4ed648a59fbb1115b3e5a868657371
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191106T095000
+DTEND:20191106T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:7a4d80ff253818aabd7d938c905b378b
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191106T114000
+DTEND:20191106T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_
+ K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:6ff1d1973d6be06f8fab93f65b9c79ad
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191106T133000
+DTEND:20191106T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_
+ gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, DKS
+ _K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc0
+ 2_NMKE\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:9f8f461f206eb735e67ed37f72a29aae
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z
+ _SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\,
+  DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI
+ _gc02_NMKE\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191107T080000
+DTEND:20191107T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:649b6c25df5698b19d3a8e5a7fce9267
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191108T080000
+DTEND:20191108T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:00c651351edea7f2925eca4f551f13d2
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191108T095000
+DTEND:20191108T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:903d3e3a63c5e28a17faa1c63e89a0ae
+LOCATION:A 333
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_P
+ GiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191112T095000
+DTEND:20191112T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:3a9be0b84867aaadf52ecb77372a09e7
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191112T114000
+DTEND:20191112T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:8d10ac4de11413f6d25cc0e25c0ce6e2
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191113T080000
+DTEND:20191113T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_P
+ GiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17
+ _z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, 
+ IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DEPR
+TZID:Europe/Warsaw
+UID:4eea952efa16a74ab76663990f12e9bc
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc
+ 02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc03_IW\, DKS_K-c
+ e_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiA
+ M\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DEPR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191113T095000
+DTEND:20191113T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:c12e6fb0ddd562a0808ebe8d2ce2b767
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191113T114000
+DTEND:20191113T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-c
+ e_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1ae88fba18af600a719bebd787347720
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191113T133000
+DTEND:20191113T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_
+ z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:4a265dd81750e3c9d578248a49fea70f
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce
+ _17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191114T080000
+DTEND:20191114T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:024bfb2e186ec30aa1d33765754e9d96
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191115T095000
+DTEND:20191115T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z
+ _SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:efe9ad65015679dc53fb45774f14b79a
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_
+ 17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDi
+ HD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191115T114000
+DTEND:20191115T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:370959670c33b611a5c88c99ffa81f82
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191118T095000
+DTEND:20191118T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc01_
+ AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:efbe42ffca2191b1b9d0a2c8c5fab621
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191118T114000
+DTEND:20191118T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:9c447d1e4b3fc4c7fceca3124e92a325
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191118T133000
+DTEND:20191118T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:901361747c1bfb72c73823665eef51c9
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191118T152000
+DTEND:20191118T170000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc
+ 03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc01_AD
+TZID:Europe/Warsaw
+UID:4cfc708584bba47c4119eca416778228
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_S
+ I_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-c
+ e_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc01_
+ AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191120T095000
+DTEND:20191120T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d0db8e3e2542faefdc111a9c568a5837
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191120T114000
+DTEND:20191120T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_
+ K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:b942879709726858776fd79e83dff859
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\
+ , I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191120T133000
+DTEND:20191120T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc02_PGiAM\, DKS_K-ce_17_z
+ _SI_gc01_DEPR\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, 
+ IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_g
+ c02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:aa3b8d9d86596fb9c093181977506b36
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc02_PGiAM\, DKS_K-ce_
+ 17_z_SI_gc01_DEPR\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiA
+ M\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_
+ SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191121T080000
+DTEND:20191121T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:a585b8bb0f0e4327e8fd038832126a89
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191122T080000
+DTEND:20191122T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:efcbf2795a497dadf4dacdea0dad7f61
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191122T095000
+DTEND:20191122T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:fc960f779b15d2067f9ae55165962ce8
+LOCATION:A 333
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191125T080000
+DTEND:20191125T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d1f0c968e5183a9868da777ead47eea9
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191125T095000
+DTEND:20191125T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:b0eb5f5a1d96ef37838a5a3d97a79f54
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc0
+ 3_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191125T114000
+DTEND:20191125T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:7102df74ec4023a51c8b4036561fe5b9
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191125T133000
+DTEND:20191125T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1574a4f7204495166d768629a726a52b
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191126T080000
+DTEND:20191126T094000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:59d6978bf015eab5ea90557c5350115a
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191126T095000
+DTEND:20191126T113000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:379ebe0449bdae97bcb5e21e53b51a96
+LOCATION:N 142
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191126T114000
+DTEND:20191126T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:8f64fea0a67bfdd72c76906054d1d3fe
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM
+ \, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191127T080000
+DTEND:20191127T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc01_
+ AD\, I_K-ce_17_z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc01_DEPR\, I_K-ce_17_
+ z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc03_IW\,
+  I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:52f267e7b5e307cadc9866bcf095eb33
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c01_AD\, I_K-ce_17_z_SI_gc01_BDiHD\, DKS_K-ce_17_z_SI_gc01_DEPR\, I_K-ce
+ _17_z_SI_gc04_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc03_
+ IW\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191127T095000
+DTEND:20191127T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:3f6d6f912f4141d73dd2f4428d92a301
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191127T114000
+DTEND:20191127T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:a8ab771956f5fc1bf57a1ec4c9237a1d
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191127T133000
+DTEND:20191127T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_
+ z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:a3d8b5e87b520c0ff15185c2f5e3db8e
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce
+ _17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191128T080000
+DTEND:20191128T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:b04ce2a645b33d915f5ca839ba2b8cbb
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191129T095000
+DTEND:20191129T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc
+ 04_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_
+ 17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:3e1127b1cace1a8094c6aa8d6b140d24
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_S
+ I_gc04_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K
+ -ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_
+ IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191129T114000
+DTEND:20191129T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d45b6a7670f73559d928a65030fe80eb
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191202T095000
+DTEND:20191202T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:fb5c5931a65630663496e90039bbf82f
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_
+ gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-
+ ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191202T114000
+DTEND:20191202T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:0554ad33e299d9e357e23948c159b5bd
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191202T133000
+DTEND:20191202T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:a8cdb49da26400c1e966ed06b531edef
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191204T095000
+DTEND:20191204T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:06e61ed3f9cc055c8e5896a590f4f8f4
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191204T114000
+DTEND:20191204T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_
+ K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:2567c3d9124a34d96a2bb833ec811e25
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191204T133000
+DTEND:20191204T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17_z_S
+ I_gc01_DEPR\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, I_K-
+ ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc01_AD
+TZID:Europe/Warsaw
+UID:f1da59fff2769cd2e2db0f9986862a9a
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  IE_K-ce_17_z_SI_gc03_IW\, DKS_K-ce_17
+ _z_SI_gc01_DEPR\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc02_IW\, 
+ I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_
+ gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc01_AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191205T080000
+DTEND:20191205T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-c
+ e_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:6c8d24f8b727b5687f5d0632d30f7132
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I
+ _K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191206T080000
+DTEND:20191206T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:0e499a159fb3da0b86fd4c47f77c3c28
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191206T095000
+DTEND:20191206T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:8d3c5065f30cdc5e29be5aa8743d4a9b
+LOCATION:A 228
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_P
+ GiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191209T080000
+DTEND:20191209T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:f28e1e37a2e9b27e50ccc2857e6785b2
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191209T095000
+DTEND:20191209T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:5e285f1e517966bc9db25f1b24f84215
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc0
+ 3_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191209T114000
+DTEND:20191209T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:da9eca6bec531d80833c6e694152e4d1
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191209T133000
+DTEND:20191209T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:98d953a7aeb91bc178e1d4abf3521890
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191210T095000
+DTEND:20191210T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:ceebf6c879ea480bc6997788225cf011
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191210T114000
+DTEND:20191210T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:24aaaf35b74394dce4f3e02393f6269b
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+ \, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191211T080000
+DTEND:20191211T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDi
+ HD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_S
+ I_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:2728c80fe04e57c0a0aeda9bd98958c9
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17
+ _z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR
+ \, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191211T095000
+DTEND:20191211T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:7a7264792b9fc5a0afb2679fbef35df9
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191211T114000
+DTEND:20191211T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:42313f270800f6b64bd80bfe1155e529
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191211T133000
+DTEND:20191211T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_
+ z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:2d942c23350be3b0a74bda8d1b8c3143
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce
+ _17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191212T080000
+DTEND:20191212T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:2dc4680da7e00d839637ee4c57ad7bfa
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191213T095000
+DTEND:20191213T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:eb095bd8a0e7fdb0070dfd84859f10d7
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGi
+ AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191213T114000
+DTEND:20191213T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:a7e090eab3c00325e5f15544f1aef651
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191216T095000
+DTEND:20191216T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_P
+ GiAM\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:0ef23d4059d91d8ffcd50353fdd9ac80
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc
+ 03_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191216T114000
+DTEND:20191216T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:9967cbc792a24cbb1a164c67668a0a8a
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191216T133000
+DTEND:20191216T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:b175d57be597248cb8e1576648d83bce
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T095000
+DTEND:20191218T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:4740d16cfb792e37c8a8694fa9080dc2
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T114000
+DTEND:20191218T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_
+ K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:cfd0df01222c786d2a55d09f75ea0bf6
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T133000
+DTEND:20191218T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z
+ _SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-
+ ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02
+ _IW\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:990ebfc4ada893f9cd7834b2260d3335
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_
+ 17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, 
+ I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_
+ gc02_IW\, DKS_K-ce_17_z_SI_gc02_NMKE\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T152000
+DTEND:20191218T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I_K-c
+ e_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_P
+ GiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:5a7801123535dd029dc7878f5fdb0ad6
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc
+ 02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T152000
+DTEND:20191218T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filipczyk
+   I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:2505e1a1218c4d3dc08a9ca158116864
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filip
+ czyk  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T152000
+DTEND:20191218T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Białas
+   I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_S
+ I_gc02_IW
+TZID:Europe/Warsaw
+UID:4f85e98b7dea15a99b12df5b64ade9c2
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Bi
+ ałas  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17
+ _z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191218T152000
+DTEND:20191218T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Łagodz
+ iński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17
+ _z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:fde57fae0303be377d63d3ea586f6810
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Ła
+ godziński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191219T080000
+DTEND:20191219T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:6a3e9ddfda8f0d94cea05aa692867368
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191220T080000
+DTEND:20191220T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d5e9dfbe222fe4c49c2855348a2df709
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191220T095000
+DTEND:20191220T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+ \, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:d566f72b93c81d1d8428cdffba19d01c
+LOCATION:A 228
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191223T080000
+DTEND:20191223T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1a5e2cad323a0978c07c8a8d989393ef
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191223T095000
+DTEND:20191223T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_P
+ GiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_
+ z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:13c165e781e558fba9314d3f89e0f17c
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc
+ 03_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce
+ _17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191223T114000
+DTEND:20191223T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:6d26af7df7d8def6c4703ff9e79e4417
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20191223T133000
+DTEND:20191223T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:fb1c99b862ada12f7711fdec6c7e47e3
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191108Z
+DTSTART:20200107T095000
+DTEND:20200107T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:f6cf74ed6b434b80f2187891b8ddc7dc
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200107T114000
+DTEND:20200107T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:bfa8e89da39fbb3f293b87a6f459d9ff
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+ \, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200108T080000
+DTEND:20200108T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc03_
+ IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-ce_17
+ _z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DEPR\,
+  I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:37ae34c06a4492afdd1c8fa8a34f7e42
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_g
+ c03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, DKS_K-c
+ e_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DE
+ PR\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200108T095000
+DTEND:20200108T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:341107bc2c3345fb5b83d254ac124dd9
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200108T114000
+DTEND:20200108T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:2df3b3f765f589cba8482d4fc39a3793
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200108T133000
+DTEND:20200108T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_
+ z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:f535ef38f47f0e737fb244febb77a834
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce
+ _17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200109T080000
+DTEND:20200109T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-c
+ e_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:c2fc1843ab6c029fc6e692a5844bfe71
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I
+ _K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200110T095000
+DTEND:20200110T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_g
+ c01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:c563db3745acdfb9c1b53d5c5592f9e8
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_
+ SI_gc01_AD\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-
+ ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGi
+ AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200110T114000
+DTEND:20200110T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:e41b66ff1a0814aa75efdc20be8c60e4
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T095000
+DTEND:20200113T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDi
+ HD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_S
+ I_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:81ad0670d835fd083790f03f32caa5c0
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17
+ _z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T114000
+DTEND:20200113T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:136bb265aebe9b24f9716257aee623a2
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T133000
+DTEND:20200113T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:977b9912ceef9b5acb6bb8ddd65cb629
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T152000
+DTEND:20200113T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzelecki 
+  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02
+ _PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:bbdd90d4910581b2af760436fe301072
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzele
+ cki  IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_
+ gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T152000
+DTEND:20200113T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Filipczy
+ k  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI
+ _gc03_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:38bb091fe422c7bf9d1a33b6250ce1c0
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Fili
+ pczyk  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_
+ z_SI_gc03_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T152000
+DTEND:20200113T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonka  I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:13703aad5cd0d011689e46dc72633238
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonk
+ a  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200113T152000
+DTEND:20200113T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  I_K-
+ ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_
+ PGiAM
+TZID:Europe/Warsaw
+UID:8471e671920d3de4209bef5b53b2e37e
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  
+ I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_g
+ c02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T095000
+DTEND:20200115T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\
+ , I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:3d3902b2acb7cfc87e40a09de23844c4
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PG
+ iAM\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T114000
+DTEND:20200115T132000
+SUMMARY:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grzegorz
+  Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_
+ K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:361ab577e1bcfc3c8e233b28f014f1d4
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do hurtowni danych - wykład z egzaminem  dr Grze
+ gorz Dziczkowski  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T133000
+DTEND:20200115T151000
+SUMMARY:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem  pro
+ f. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_
+ SI_gc01_AD\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, I_K-
+ ce_17_z_SI_gc02_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI_gc0
+ 3_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:1b9e99b4003d90ebdfca5bd37a53df6c
+LOCATION:A 332
+DESCRIPTION:Między ekonomią\, matematyką a muzyką - wykład z zaliczeniem 
+  prof. dr hab. Tadeusz Trzaskalik  I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc02_IW\, 
+ I_K-ce_17_z_SI_gc02_PGiAM\, DKS_K-ce_17_z_SI_gc01_DEPR\, IE_K-ce_17_z_SI
+ _gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T152000
+DTEND:20200115T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I_K-c
+ e_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDi
+ HD\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:bb74f7ac34e475cce969104bc621d3c1
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Anna Kempa  I
+ _K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01
+ _BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T152000
+DTEND:20200115T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filipczyk
+   I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:733a279b191e4ebaeef58cef52d2a638
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Filip
+ czyk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T152000
+DTEND:20200115T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Białas
+   I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_S
+ I_gc02_IW
+TZID:Europe/Warsaw
+UID:0d27e188dda61624b48a5b283bac4f09
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Franciszek Bi
+ ałas  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17
+ _z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200115T152000
+DTEND:20200115T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Łagodz
+ iński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:e09a24afcd9433b8fed96d13dc432093
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Przemysław Ła
+ godziński  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-
+ ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200116T080000
+DTEND:20200116T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-c
+ e_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:a6f49faa898fa9f49266eacaf835c583
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200117T080000
+DTEND:20200117T094000
+SUMMARY:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewalska-
+ Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:7dc9da16849c9693c17f1caca548ca51
+LOCATION:B 215
+DESCRIPTION:Fundamentals of marketing research - Ćwiczenia  dr Anna Dewal
+ ska-Opitek  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200117T095000
+DTEND:20200117T113000
+SUMMARY:Problemy społeczne i zawodowe informatyki - wykład z zaliczeniem 
+  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+ \, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:ac8d8883c32a2984273e9ddb66daad48
+LOCATION:A 228
+DESCRIPTION:Problemy społeczne i zawodowe informatyki - wykład z zaliczen
+ iem  dr Edyta Abramek  I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_P
+ GiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200120T080000
+DTEND:20200120T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:ce98bb504100c2baba23a4e16aae706c
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200120T095000
+DTEND:20200120T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z
+ _SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc01_AD
+TZID:Europe/Warsaw
+UID:e2992eb3d75cfb22c6597fb0c051f48f
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc
+ 01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_
+ 17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc01_AD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200120T114000
+DTEND:20200120T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:b0c3700b9a9619af7739a9150a9b9be8
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200120T133000
+DTEND:20200120T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:7841fc6e1282cb2a94b2ce7c5849c0a9
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200120T152000
+DTEND:20200120T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołtysik 
+  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_
+ gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:e1ec7663c9194ce4308750bd7005659b
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołty
+ sik  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z
+ _SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200121T095000
+DTEND:20200121T113000
+SUMMARY:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z_SI_
+ gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d1629504219265cc8074a9331319298e
+LOCATION:N 01/03
+DESCRIPTION:Podstawy ekonomii - Ćwiczenia  dr Sławomir Czech  I_K-ce_17_z
+ _SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200121T114000
+DTEND:20200121T132000
+SUMMARY:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ewa Ze
+ man-Miszewska  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:40c8aca88e7a4e1ff5f5ea7967846787
+LOCATION:N 149
+DESCRIPTION:Podstawy ekonomii - wykład z zaliczeniem  prof. UE dr hab. Ew
+ a Zeman-Miszewska  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+ \, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200122T080000
+DTEND:20200122T094000
+SUMMARY:Kształtowanie relacji w kanałach dystrybucji - wykład z zaliczeni
+ em  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc01_B
+ DiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_1
+ 7_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DEPR\, 
+ DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:73c83bf318529c0e9a11b24e75d7cd1c
+LOCATION:A 228
+DESCRIPTION:Kształtowanie relacji w kanałach dystrybucji - wykład z zalic
+ zeniem  dr Zbigniew Spyra  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-
+ ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc01_AD\, DKS_K-ce_17_z_SI_gc01_DEP
+ R\, DKS_K-ce_17_z_SI_gc02_NMKE\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200122T095000
+DTEND:20200122T113000
+SUMMARY:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr Prz
+ emysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\
+ , I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:363ef94f3147335df9ac3d83117808d1
+LOCATION:A 333
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - wykład z egzaminem  dr
+  Przemysław Juszczuk  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PG
+ iAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200122T114000
+DTEND:20200122T132000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - wy
+ kład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-c
+ e_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:09b72bbc1f429df6df95d6f1fbae894d
+LOCATION:A 333
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - wykład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc04_PGiAM\, I
+ _K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200122T133000
+DTEND:20200122T151000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - wykład 
+ z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_
+ z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:d2019748d5ec17177e1e00080fd44df9
+LOCATION:A 333
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - wyk
+ ład z zaliczeniem  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce
+ _17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200123T080000
+DTEND:20200123T132000
+SUMMARY: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-c
+ e_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:746c8106022b22ea1f01f495181a9c2d
+LOCATION:brak lokalizacji brak sali
+DESCRIPTION: Język obcy I\, Język obcy II brak nauczyciela  I_K-ce_17_z_S
+ I_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM\, I
+ _K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200124T095000
+DTEND:20200124T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc
+ 01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, IE_K-ce
+ _17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:989f40dc117017d4821f25a2f93f992f
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_S
+ I_gc01_BDiHD\, I_K-ce_17_z_SI_gc03_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, IE_
+ K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGi
+ AM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200124T114000
+DTEND:20200124T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:b99161178c5503d0f1d9ac9c3d70137f
+LOCATION:@ 6/14
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200124T152000
+DTEND:20200124T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probierz 
+  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c03_IW
+TZID:Europe/Warsaw
+UID:8b4ac23f659f9bd502ef02b5d3a01668
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probi
+ erz  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T095000
+DTEND:20200127T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  IE_
+ K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGi
+ AM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_S
+ I_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:1a861154f23ba45681643e578bc88f29
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  IE_K-ce_17_z_SI_gc03_IW\, IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04
+ _PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17
+ _z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T114000
+DTEND:20200127T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:02b37ffaf4792aa8a9e86dac33422168
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T133000
+DTEND:20200127T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:2b6ed6e3ef245734ee2893b0d12815f5
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T152000
+DTEND:20200127T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzelecki 
+  IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_g
+ c02_IW\, IE_K-ce_17_z_SI_gc03_IW
+TZID:Europe/Warsaw
+UID:8a1f37403ab49f83a924ed3107fe87a6
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Artur Strzele
+ cki  IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_
+ SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T152000
+DTEND:20200127T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Filipczy
+ k  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI
+ _gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+TZID:Europe/Warsaw
+UID:e8d479c602e4bd397ef192f09eea9ab7
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Grzegorz Fili
+ pczyk  IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_
+ z_SI_gc02_IW\, I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T152000
+DTEND:20200127T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonka  I
+ _K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:90b770585fcb5f943181b868ed938f1c
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Joanna Palonk
+ a  I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200127T152000
+DTEND:20200127T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  I_K-
+ ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc02_
+ PGiAM
+TZID:Europe/Warsaw
+UID:9acb1bc854cee84f3478f9d9404d279b
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Tomasz Staś  
+ I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_g
+ c02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200128T095000
+DTEND:20200128T113000
+SUMMARY:Fundamentals of marketing research - wykład z zaliczeniem  prof. 
+ UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_SI_gc
+ 03_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce
+ _17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDiHD
+TZID:Europe/Warsaw
+UID:9dd32d99665e38ee720038ccf4b9b22a
+LOCATION:A 228
+DESCRIPTION:Fundamentals of marketing research - wykład z zaliczeniem  pr
+ of. UE dr hab. Maciej Mitręga  I_K-ce_17_z_SI_gc04_PGiAM\, I_K-ce_17_z_S
+ I_gc03_PGiAM\, IE_K-ce_17_z_SI_gc01_AD\, I_K-ce_17_z_SI_gc02_PGiAM\, IE_
+ K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc01_BDi
+ HD
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200128T114000
+DTEND:20200128T132000
+SUMMARY:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwiczen
+ ia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:72665a1a3cff2ea8797643cceca6866d
+LOCATION:@ 6/16
+DESCRIPTION:Tworzenie internetowych gier biznesowych i edukacyjnych - Ćwi
+ czenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200128T152000
+DTEND:20200128T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probierz 
+  IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc02
+ _PGiAM
+TZID:Europe/Warsaw
+UID:a370e7d726aa04606f7219c62a4d0a3e
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Barbara Probi
+ erz  IE_K-ce_17_z_SI_gc02_IW\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_
+ gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200129T080000
+DTEND:20200129T094000
+SUMMARY:Wprowadzenie do tworzenia inteligentnych gier strategicznych - Ćw
+ iczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:b782b26f8c6debc1b7e17ade351c6ddd
+LOCATION:A 143
+DESCRIPTION:Wprowadzenie do tworzenia inteligentnych gier strategicznych 
+ - Ćwiczenia  dr hab. Jan Kozak  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200129T095000
+DTEND:20200129T113000
+SUMMARY:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska  I_K
+ -ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc04_P
+ GiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-ce_1
+ 7_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW
+TZID:Europe/Warsaw
+UID:c3d318e3d049691ff7ec3805ca4e98a3
+LOCATION:A 333
+DESCRIPTION:Filozofia - wykład z zaliczeniem  dr Anna Adamus-Matuszyńska 
+  I_K-ce_17_z_SI_gc02_PGiAM\, IE_K-ce_17_z_SI_gc03_IW\, I_K-ce_17_z_SI_gc
+ 04_PGiAM\, I_K-ce_17_z_SI_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, IE_K-
+ ce_17_z_SI_gc01_AD\, IE_K-ce_17_z_SI_gc02_IW
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200129T114000
+DTEND:20200129T132000
+SUMMARY:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowski  I
+ _K-ce_17_z_SI_gl02_PGiAM
+TZID:Europe/Warsaw
+UID:5693a7105a0664544bbf437edf88abe1
+LOCATION:A 337
+DESCRIPTION:Wprowadzenie do hurtowni danych - lab  dr Grzegorz Dziczkowsk
+ i  I_K-ce_17_z_SI_gl02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200129T133000
+DTEND:20200129T151000
+SUMMARY:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz Fil
+ ipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+TZID:Europe/Warsaw
+UID:33b86e9e9f713646989666b62ce3b7a0
+LOCATION:A 124
+DESCRIPTION:Tworzenie gier na urządzenia mobilne - Ćwiczenia  dr Grzegorz
+  Filipczyk  I_K-ce_17_z_SI_gc02_PGiAM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190917T191109Z
+DTSTART:20200129T152000
+DTEND:20200129T170000
+SUMMARY:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołtysik 
+  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_SI_gc
+ 03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+TZID:Europe/Warsaw
+UID:2ba5689c83594fb15eaeefa86f3f13c9
+LOCATION:- Katedra
+DESCRIPTION:Seminarium dyplomowe - seminarium dyplomowe  dr Andrzej Sołty
+ sik  IE_K-ce_17_z_SI_gc02_IW\, I_K-ce_17_z_SI_gc02_PGiAM\, I_K-ce_17_z_S
+ I_gc03_PGiAM\, I_K-ce_17_z_SI_gc01_BDiHD\, I_K-ce_17_z_SI_gc04_PGiAM
+END:VEVENT
+END:VCALENDAR

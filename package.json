@@ -1,0 +1,41 @@
+{
+  "name": "js-templates",
+  "version": "1.0.0",
+  "description": "JavaScript templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkicmal/js-templates.git"
+  },
+  "author": "Jakub Kicmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkicmal/js-templates/issues"
+  },
+  "homepage": "https://github.com/jkicmal/js-templates#readme",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^2.3.0",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "nodemon": "^1.19.2",
+    "prettier": "^1.18.2",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.1",
+    "express": "^4.17.1",
+    "ical2json": "^2.0.0",
+    "moment-timezone": "^0.5.26"
+  },
+  "engines": {
+    "node": ">=12.10.0"
+  }
+}
