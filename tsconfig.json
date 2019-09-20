@@ -13,7 +13,7 @@
     "strictBindCallApply": false,
     "strictPropertyInitialization": false,
     "alwaysStrict": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false,
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true

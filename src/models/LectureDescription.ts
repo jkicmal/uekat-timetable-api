@@ -1,4 +1,4 @@
-import { stringContains, arrayLenghIsEqual, capitalizeFirstLetter } from "./utils";
+import { stringContains, arrayLenghIsEqual, capitalizeFirstLetter } from "../utils/utils";
 
 export default class LectureDescription {
   private static STRINGS = {
@@ -9,7 +9,7 @@ export default class LectureDescription {
     NO_TEACHER: "No teacher"
   };
 
-  private static TYPES = {
+  public static TYPES = {
     SEMINAR: "seminarium",
     EXCERCISES: "ćwiczenia",
     LABORATIORIES: "lab",
@@ -57,7 +57,8 @@ export default class LectureDescription {
       const { title, type } = this.getTitleAndTypeFromRawTitle(titleRaw);
       return new LectureDescription(title, teacher, codes, attending, type);
     } else {
-      // THROW ERROR - UNHADLED CASE
+      // THROW ERROR - UKNOWN SEMINAR SUMMARY FORMAT
+      throw { message: "UKNOWN SEMINAR SUMMARY FORMAT" };
     }
   }
   private static handleBasicLectureSummary(summary: string) {
@@ -68,19 +69,29 @@ export default class LectureDescription {
       const { title, type } = this.getTitleAndTypeFromRawTitle(titleRaw);
       return new LectureDescription(title, teacher, codes, attending, type);
     } else {
-      // THROW ERROR - UNHADLED CASE
+      // THROW ERROR - UKNOWN BASIC SUMMARY FORMAT
+      throw { message: "UKNOWN BASIC SUMMARY FORMAT" };
     }
   }
 
   private static getTitleAndTypeFromRawTitle(rawTitle: string) {
     const splittedRawTitle = rawTitle.split("-");
     if (arrayLenghIsEqual(splittedRawTitle, 2)) {
-      return {
-        title: splittedRawTitle[0].trim(),
-        type: capitalizeFirstLetter(splittedRawTitle[1].trim())
-      };
+      const title = splittedRawTitle[0].trim();
+      const rawType = splittedRawTitle[1].trim();
+      const type = this.getTypeFromRawType(rawType);
+      return { title, type };
     } else {
-      // THROW ERROR - UNHADLED CASE
+      // THROW ERROR - UNKNOWN LECTURE TITLE FORMAT
+      throw { message: "UNKNOWN LECTURE TITLE FORMAT" };
     }
+  }
+
+  private static getTypeFromRawType(rawType: string) {
+    for (const type in this.TYPES) {
+      if (stringContains(rawType, this.TYPES[type])) return this.TYPES[type];
+    }
+    // THROW ERROR - UNKNOWN LECTURE TYPE FROMAT
+    throw { message: "UNKNOWN LECTURE TYPE FROMAT" };
   }
 }
