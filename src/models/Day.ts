@@ -8,6 +8,7 @@ export default class Day {
 
   constructor(date: Date) {
     this.date = date;
+    this.lectures = [];
   }
 
   public setLectures(lectures: Lecture[]) {

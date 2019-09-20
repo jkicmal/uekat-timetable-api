@@ -32,3 +32,7 @@ export const clg = (o: any) => console.log(o);
 export const capitalizeFirstLetter = (string: string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 };
+
+export const compareDates = (date1: Date, date2: Date) => {
+  return moment(date1).isSame(moment(date2));
+};
