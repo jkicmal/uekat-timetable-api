@@ -1,38 +1,38 @@
 import moment from "moment-timezone";
 import { Date } from "moment-timezone";
-import Lecture from "./Lecture";
+import Lesson from "./Lesson";
 
 export default class Day {
   date: Date;
-  lectures: Lecture[];
+  lessons: Lesson[];
 
   constructor(date: Date) {
     this.date = date;
-    this.lectures = [];
+    this.lessons = [];
   }
 
-  public setLectures(lectures: Lecture[]) {
-    this.lectures = lectures;
+  public setLessons(lessons: Lesson[]) {
+    this.lessons = lessons;
   }
 
-  public getLecturesCount() {
-    return this.lectures.length;
+  public getLessonsCount() {
+    return this.lessons.length;
   }
 
-  public getLecturesOfTypeCount(lectureType: string) {
-    if (this.getLecturesCount() === 0) return 0;
-    return this.lectures.reduce(
-      (accumulator, lecture) => (lecture.isOfType(lectureType) ? accumulator + 1 : accumulator),
+  public getLessonsOfTypeCount(lessonType: string) {
+    if (this.getLessonsCount() === 0) return 0;
+    return this.lessons.reduce(
+      (accumulator, lesson) => (lesson.isOfType(lessonType) ? accumulator + 1 : accumulator),
       0
     );
   }
 
-  public getLecturesTypePercentage(lectureType: string) {
-    if (this.getLecturesCount() === 0) return 0;
-    return this.getLecturesOfTypeCount(lectureType) / this.getLecturesCount();
+  public getLessonsTypePercentage(lessonType: string) {
+    if (this.getLessonsCount() === 0) return 0;
+    return this.getLessonsOfTypeCount(lessonType) / this.getLessonsCount();
   }
 
-  public getLecturesTotatlTimeInMins() {
-    return this.lectures.reduce((accumulator, lecture) => accumulator + lecture.durationInMins, 0);
+  public getLessonsTotatlTimeInMins() {
+    return this.lessons.reduce((accumulator, lesson) => accumulator + lesson.durationInMins, 0);
   }
 }

@@ -1,6 +1,6 @@
 import { stringContains, arrayLenghIsEqual, capitalizeFirstLetter } from "../utils/utils";
 
-export default class LectureDescription {
+export default class LessonDescription {
   private static STRINGS = {
     SEMINAR: "Seminarium dyplomowe",
     PROMOTOR: "Tomasz Staś",
@@ -34,14 +34,14 @@ export default class LectureDescription {
 
   public static fromCalendarSummary(summary: string) {
     if (stringContains(summary, this.STRINGS.SEMINAR))
-      return this.handleSeminarLectureSummary(summary);
+      return this.handleSeminarLessonSummary(summary);
     else if (stringContains(summary, this.STRINGS.LANGUAGES))
-      return this.handleLanguagesLectureSummary(summary);
-    else return this.handleBasicLectureSummary(summary);
+      return this.handleLanguagesLessonSummary(summary);
+    else return this.handleBasicLessonSummary(summary);
   }
 
-  private static handleLanguagesLectureSummary(summary: string) {
-    return new LectureDescription(
+  private static handleLanguagesLessonSummary(summary: string) {
+    return new LessonDescription(
       this.STRINGS.LANGUAGES,
       this.STRINGS.NO_TEACHER,
       null,
@@ -49,25 +49,25 @@ export default class LectureDescription {
       this.TYPES.LANGUAGES
     );
   }
-  private static handleSeminarLectureSummary(summary: string) {
+  private static handleSeminarLessonSummary(summary: string) {
     const splittedSummary = summary.split("  ");
     if (arrayLenghIsEqual(splittedSummary, 3)) {
       const [titleRaw, teacher, codes] = splittedSummary;
       const attending = stringContains(summary, this.STRINGS.PROMOTOR);
       const { title, type } = this.getTitleAndTypeFromRawTitle(titleRaw);
-      return new LectureDescription(title, teacher, codes, attending, type);
+      return new LessonDescription(title, teacher, codes, attending, type);
     } else {
       // THROW ERROR - UKNOWN SEMINAR SUMMARY FORMAT
       throw { message: "UKNOWN SEMINAR SUMMARY FORMAT" };
     }
   }
-  private static handleBasicLectureSummary(summary: string) {
+  private static handleBasicLessonSummary(summary: string) {
     const splittedSummary = summary.split("  ");
     if (arrayLenghIsEqual(splittedSummary, 3)) {
       const [titleRaw, teacher, codes] = splittedSummary;
       const attending = stringContains(codes, this.STRINGS.GROUP);
       const { title, type } = this.getTitleAndTypeFromRawTitle(titleRaw);
-      return new LectureDescription(title, teacher, codes, attending, type);
+      return new LessonDescription(title, teacher, codes, attending, type);
     } else {
       // THROW ERROR - UKNOWN BASIC SUMMARY FORMAT
       throw { message: "UKNOWN BASIC SUMMARY FORMAT" };
@@ -82,8 +82,8 @@ export default class LectureDescription {
       const type = this.getTypeFromRawType(rawType);
       return { title, type };
     } else {
-      // THROW ERROR - UNKNOWN LECTURE TITLE FORMAT
-      throw { message: "UNKNOWN LECTURE TITLE FORMAT" };
+      // THROW ERROR - UNKNOWN LESSON TITLE FORMAT
+      throw { message: "UNKNOWN LESSON TITLE FORMAT" };
     }
   }
 
@@ -91,7 +91,7 @@ export default class LectureDescription {
     for (const type in this.TYPES) {
       if (stringContains(rawType, this.TYPES[type])) return this.TYPES[type];
     }
-    // THROW ERROR - UNKNOWN LECTURE TYPE FROMAT
-    throw { message: "UNKNOWN LECTURE TYPE FROMAT" };
+    // THROW ERROR - UNKNOWN LESSON TYPE FROMAT
+    throw { message: "UNKNOWN LESSON TYPE FROMAT" };
   }
 }

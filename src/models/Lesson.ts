@@ -1,14 +1,14 @@
 import { Date } from "moment-timezone";
 import { getMomentDateTime, getMomentDurationInMins, stringContains } from "../utils/utils";
-import LectureDescription from "./LectureDescription";
+import LessonDescription from "./LessonDescription";
 import { DATE_FORMAT } from "../utils/constants";
 import moment from "moment-timezone";
 
-export default class Lecture {
+export default class Lesson {
   startTime: Date;
   endTime: Date;
   location: string;
-  description: LectureDescription;
+  description: LessonDescription;
   durationInMins: number;
 
   constructor(startTime, endTime, description, location) {
