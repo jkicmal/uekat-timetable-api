@@ -2,7 +2,7 @@ import { compareDates } from "../utils/utils";
 import DateRange from "../models/DateRange";
 import Day from "../models/Day";
 import Lesson from "../models/Lesson";
-import CalendarService from "../services/CalendarService";
+import CalendarService from "../repositories/CalendarRepository";
 
 export default class DaysController {
   private calendarService: CalendarService;

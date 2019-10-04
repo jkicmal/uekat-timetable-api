@@ -1,7 +1,9 @@
 import moment from "moment-timezone";
-import { DATETIME_FORMAT, DATE_FORMAT } from "./constants";
+import { DATETIME_FORMAT, DATE_FORMAT, TIME_FORMAT } from "./constants";
 
 export const getMomentDateTime = date => moment(date).format(DATETIME_FORMAT);
+
+export const getMomentTime = date => moment(date).format(TIME_FORMAT);
 
 export const getMomentDate = date => moment(date).format(DATE_FORMAT);
 
