@@ -15,6 +15,8 @@ export default class Lesson {
   // It happens because there should be a break in a middle of class
   // But there is not ;p
 
+  // TODO: Remove nesting from description mapDays(), mapLessons()
+
   constructor(startTime, endTime, description, location) {
     this.startTime = getMomentDateTime(startTime);
     this.endTime = getMomentDateTime(endTime); // TODO: -10 mins if duration > 45

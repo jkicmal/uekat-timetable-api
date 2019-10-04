@@ -18,7 +18,7 @@ app.get("/api/v1/calendar", (req, res) => {
   res.status(200).json({ data: {} });
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, async () => {
   console.log(`Listning on port... ${PORT}`);
