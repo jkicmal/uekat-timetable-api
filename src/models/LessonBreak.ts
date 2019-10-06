@@ -1,7 +1,7 @@
 import Lesson from "./Lesson";
 import { getMomentDateTime, getMomentDurationInMins } from "../utils/utils";
 
-export default class Break {
+export default class LessonBreak {
   startTime: string;
   endTime: string;
   durationInMins: number;
@@ -13,14 +13,14 @@ export default class Break {
   }
 
   public static fromLessonsArray(lessons: Lesson[]) {
-    const breaks: Break[] = [];
+    const lessonsBreaks: LessonBreak[] = [];
     if (lessons.length > 1) {
       for (let i = 0; i < lessons.length - 1; i++) {
-        const breakStartTime = lessons[i].endTime;
-        const breakEndTime = lessons[i + 1].startTime;
-        breaks.push(new Break(breakStartTime, breakEndTime));
+        const lessonBreakStartTime = lessons[i].endTime;
+        const lessonBreakEndTime = lessons[i + 1].startTime;
+        lessonsBreaks.push(new LessonBreak(lessonBreakStartTime, lessonBreakEndTime));
       }
     }
-    return breaks;
+    return lessonsBreaks;
   }
 }

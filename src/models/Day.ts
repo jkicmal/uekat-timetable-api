@@ -2,7 +2,7 @@ import moment from "moment-timezone";
 import { Date } from "moment-timezone";
 import Lesson from "./Lesson";
 import LessonDescription from "./LessonDescription";
-import Break from "./Break";
+import LessonBreak from "./LessonBreak";
 
 export default class Day {
   date: Date;
@@ -11,8 +11,9 @@ export default class Day {
   lessonsCount: number;
   lecturesCount: number;
   seminar: boolean;
+  totalLessonsBreaksTimeInMins: number;
   lessons: Lesson[];
-  breaks: Break[];
+  lessonsBreaks: LessonBreak[];
 
   constructor(date: Date) {
     this.date = date;
@@ -22,7 +23,7 @@ export default class Day {
     this.lecturesCount = 0;
     this.seminar = false;
     this.lessons = [];
-    this.breaks = [];
+    this.lessonsBreaks = [];
   }
 
   public setLessons(lessons: Lesson[]) {
@@ -33,10 +34,19 @@ export default class Day {
       this.lessonsCount = lessons.length;
       this.lecturesCount = this.calculateLecturesCount(lessons);
       this.seminar = this.lessonsContainSeminar(lessons);
-      this.breaks = Break.fromLessonsArray(lessons);
+
+      const lessonsBreaks = LessonBreak.fromLessonsArray(lessons);
+      this.lessonsBreaks = lessonsBreaks;
+      this.totalLessonsBreaksTimeInMins = this.getTotalLessonsBreaksTimeInMins(lessonsBreaks);
     } else {
       // UNHANDLED ERROR: Lessons array is empty
     }
+  }
+
+  private getTotalLessonsBreaksTimeInMins(lessonsBreaks) {
+    return lessonsBreaks.reduce((acc: number, lessonBreak: LessonBreak) => {
+      return acc + lessonBreak.durationInMins;
+    }, 0);
   }
 
   private lessonsContainSeminar(lessons: Lesson[]): boolean {
