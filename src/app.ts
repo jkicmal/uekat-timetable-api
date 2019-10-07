@@ -1,11 +1,13 @@
 import express from "express";
 import CalendarRepository from "./repositories/CalendarRepository";
 import DaysController from "./controllers/DaysController";
+import cors from "cors";
 
 const calendarRepository = new CalendarRepository();
 const daysController = new DaysController(calendarRepository);
 
 const app = express();
+app.use(cors());
 
 app.get("/api/v1/days", async (req, res) => {
   // console.log("Fetching days...");

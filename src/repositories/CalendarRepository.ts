@@ -14,8 +14,8 @@ export default class CalendarService {
   public async getCalendarFromExternalAPI() {
     try {
       // console.log("Downloadning calendar...");
-      // const calendarRaw = await this.getCalendarFromInternet();
-      const calendarRaw = await readFile(path.join(__dirname, "../calendar.ics"), "utf8");
+      const calendarRaw = await this.getCalendarFromInternet();
+      // const calendarRaw = await readFile(path.join(__dirname, "../calendar.ics"), "utf8");
       // console.log("Calendar downloaded.");
 
       // console.log("Converting calendar...");
@@ -23,7 +23,6 @@ export default class CalendarService {
       // console.log("Calendar converted.");
 
       // console.log("Setting timezone");
-      // console.log();
       moment.tz.setDefault(this.getTimezoneFromCalendar(convertedCalendar));
       // console.log("Timezone set.");
 
