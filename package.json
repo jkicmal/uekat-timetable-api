@@ -1,5 +1,5 @@
 {
-  "name": "js-templates",
+  "name": "uekat-timetable-api",
   "version": "1.0.0",
   "description": "JavaScript templates",
   "main": "dist/app.js",
