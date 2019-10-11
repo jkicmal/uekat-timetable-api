@@ -29,6 +29,10 @@ app.get("/api/v1/calendar", (req, res) => {
   res.status(200).json({ data: {} });
 });
 
+app.all("*", (req, res) => {
+  res.status(404).json({ message: "ERROR: Not found" });
+});
+
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, async () => {
