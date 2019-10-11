@@ -2,20 +2,25 @@
   "name": "js-templates",
   "version": "1.0.0",
   "description": "JavaScript templates",
-  "main": "app.js",
+  "main": "dist/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-ts": "tsc",
+    "postinstall": "npm run build-ts",
+    "start": "npm run serve",
+    "serve": "node dist/app.js",
+    "watch-node": "nodemon dist/app.js",
+    "watch-ts": "tsc -w"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkicmal/js-templates.git"
+    "url": "git+https://github.com/jkicmal/uekat-timetable-api.git"
   },
   "author": "Jakub Kicmal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jkicmal/js-templates/issues"
+    "url": "https://github.com/jkicmal/uekat-timetable-api/issues"
   },
-  "homepage": "https://github.com/jkicmal/js-templates#readme",
+  "homepage": "https://github.com/jkicmal/uekat-timetable-api#readme",
   "devDependencies": {
     "@typescript-eslint/parser": "^2.3.0",
     "eslint": "^6.1.0",
