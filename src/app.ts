@@ -3,6 +3,7 @@ import CalendarRepository from "./repositories/CalendarRepository";
 import DaysController from "./controllers/DaysController";
 import cors from "cors";
 import dotenv from "dotenv";
+import { RSA_NO_PADDING } from "constants";
 
 dotenv.config();
 
@@ -29,8 +30,12 @@ app.get("/api/v1/calendar", (req, res) => {
   res.status(200).json({ data: {} });
 });
 
+app.get("/", (req, res) => {
+  res.status(200).json({ data: { message: "You shouldn't be here ;)" } });
+});
+
 app.all("*", (req, res) => {
-  res.status(404).json({ message: "ERROR: Not found" });
+  res.status(404).json({ data: { message: "ERROR: Not found" } });
 });
 
 const PORT = process.env.PORT || 3000;
