@@ -1,7 +1,6 @@
 import axios from "axios";
 import moment from "moment-timezone";
 import ical2json from "ical2json";
-import { CALENDAR_URL } from "../utils/constants";
 import LessonDescription from "../models/LessonDescription";
 import Lesson from "../models/Lesson";
 
@@ -48,7 +47,7 @@ export default class CalendarService {
 
   private async getCalendarFromInternet() {
     try {
-      const response = await axios.get(CALENDAR_URL);
+      const response = await axios.get(process.env.CALENDAR_URL);
       return response.data;
     } catch (err) {
       // UNHANDLED ERROR

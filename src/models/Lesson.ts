@@ -11,16 +11,22 @@ export default class Lesson {
   description: LessonDescription;
   durationInMins: number;
 
-  // TODO: If lesson is longer than 45 mins it ends 10 minutes earlier
-  // It happens because there should be a break in a middle of class
-  // But there is not ;p
-
-  // TODO: Remove nesting from description mapDays(), mapLessons()
-
   constructor(startTime, endTime, description, location) {
+    // If lesson is longer than 45 mins, subtract 10 mins from it
+    // FIXME: This should't happen in model!
+    const tempStartTime = moment(startTime);
+    const tempEndTime = moment(endTime);
+    const tempDuration = getMomentDurationInMins(tempStartTime, tempEndTime);
     this.startTime = getMomentDateTime(startTime);
-    this.endTime = getMomentDateTime(endTime); // TODO: -10 mins if duration > 45
-    this.durationInMins = getMomentDurationInMins(startTime, endTime);
+    if (tempDuration > 45) {
+      const newEndTime = moment(endTime).subtract("10", "minutes");
+      this.endTime = getMomentDateTime(newEndTime);
+      this.durationInMins = getMomentDurationInMins(startTime, newEndTime);
+    } else {
+      this.endTime = getMomentDateTime(endTime);
+      this.durationInMins = getMomentDurationInMins(startTime, endTime);
+    }
+
     this.location = location;
     this.description = description;
   }
